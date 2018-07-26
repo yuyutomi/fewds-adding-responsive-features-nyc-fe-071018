@@ -59,4 +59,9 @@
   #logo h2 {
     display: none;
   }
+  #social {
+    float: right;
+  }
+  
+}
 }
