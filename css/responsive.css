@@ -43,6 +43,9 @@
     float: none;
   }  
   .border-right {
-    boder: 0;
+    border: 0;
+  }
+  #details div {
+    height:; auto;
   }
 }
