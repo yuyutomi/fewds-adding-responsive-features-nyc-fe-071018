@@ -53,7 +53,7 @@
   #navbar nav a {
     display: none;
   }
-  #navbar nav a.menu-icon {
+  .menu-icon {
     display: block;
   }
 }
