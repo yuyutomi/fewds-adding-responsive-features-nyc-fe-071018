@@ -9,3 +9,14 @@
     right: 4px;
   }
 }
+@media only screen and (max-width: 900px) {
+  body {
+    font-size: 85%;
+  }
+  #logo h1 {
+    font-size: 35px;
+  }
+  #logo h2 {
+    font-size: 2.2em;
+  }
+}
