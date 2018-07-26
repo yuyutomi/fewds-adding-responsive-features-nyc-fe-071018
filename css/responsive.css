@@ -27,3 +27,12 @@
     column-count: 3;
   }
 }
+@media only screen and (max-width: 750px) {
+  #navbar nav a {
+    font-size: 0.9em;  
+  }
+  .col-3 p {
+    
+  }
+}
+}
