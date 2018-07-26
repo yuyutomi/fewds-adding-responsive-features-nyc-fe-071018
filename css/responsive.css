@@ -54,6 +54,6 @@
     display: none;
   }
   #navbar nav a.menu-icon {
-    display: block;
+    display: block !important;
   }
 }
