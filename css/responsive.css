@@ -62,6 +62,8 @@
   #social {
     float: right;
   }
-  
+  #social a {
+    display: inline-block;
+  }
 }
 }
